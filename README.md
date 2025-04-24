@@ -1,6 +1,5 @@
 # MNIST Digit Classification with PyTorch
 
-![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png)
 ![MNIST Examples](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
 ## Project Description
@@ -86,11 +85,3 @@ The script includes visualization of:
 
 Each image is displayed with both the predicted and true label.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- PyTorch team for the excellent deep learning framework
-- Yann LeCun, Corinna Cortes, and Christopher J.C. Burges for the MNIST dataset
